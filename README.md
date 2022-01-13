@@ -9,3 +9,5 @@ https://kishan-ramesh.github.io/2-Player-Car-Game-Multiplayer/
 
 And for now It is only for desktop.
 
+I will soon upload the video for setting up the google firebase.
+
